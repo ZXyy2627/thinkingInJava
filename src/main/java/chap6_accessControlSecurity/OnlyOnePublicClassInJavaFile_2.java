@@ -8,6 +8,7 @@ package chap6_accessControlSecurity;
  */
 public class OnlyOnePublicClassInJavaFile_2 {
     /*
+
         import java.util.ArrayList;
 
         在系统中配置CLASSPATH环境变量的时候，这个变量代表的路径就是class文件的根目录

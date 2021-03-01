@@ -27,6 +27,7 @@ public class AccessControlWord_3 {
 }
 
 class Student{
+
     int age; //该成员变量前什么都没有，默认就是包访问权限
 
     void f(){
